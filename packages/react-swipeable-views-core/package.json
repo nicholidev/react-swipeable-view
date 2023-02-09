@@ -1,6 +1,6 @@
 {
   "name": "react-swipeable-view-core",
-  "version": "0.14.0",
+  "version": "0.14.1",
   "description": "react-swipeable-view core modules",
   "main": "lib/index.js",
   "scripts": {
@@ -8,11 +8,11 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/oliviertassinari/react-swipeable-view.git"
+    "url": "https://github.com/nicholidev/react-swipeable-view.git"
   },
-  "author": "Olivier Tassinari <olivier.tassinari@gmail.com> (https://github.com/oliviertassinari)",
+  "author": "Nicholi Jin <nicholijin@gmail.com> (https://nicholijin.com/)",
   "bugs": {
-    "url": "https://github.com/oliviertassinari/react-swipeable-view/issues"
+    "url": "https://github.com/nicholidev/react-swipeable-view/issues"
   },
   "dependencies": {
     "@babel/runtime": "7.0.0",

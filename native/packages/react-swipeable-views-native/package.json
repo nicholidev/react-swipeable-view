@@ -12,7 +12,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/oliviertassinari/react-swipeable-view.git"
+    "url": "https://github.com/nicholidev/react-swipeable-view.git"
   },
   "keywords": [
     "react-native",
@@ -21,13 +21,12 @@
     "swipe",
     "swipeable"
   ],
-  "author": "Olivier Tassinari <olivier.tassinari@gmail.com> (https://github.com/oliviertassinari)",
+  "author": "Nicholi Jin <nicholijin@gmail.com> (https://nicholijin.com)",
   "maintainers": [
-    "Olivier Tassinari <olivier.tassinari@gmail.com> (https://github.com/oliviertassinari)",
-    "Roman Rogozhnikov <roman.rogozhnikov@gmail.com> (https://github.com/yacut)"
+    "Nicholi Jin <nicholijin@gmail.com> (https://nicholijin.com/)",
   ],
   "bugs": {
-    "url": "https://github.com/oliviertassinari/react-swipeable-view/issues"
+    "url": "https://github.com/nicholidev/react-swipeable-view/issues"
   },
   "dependencies": {
     "react-swipeable-view-core": "^0.13.0"

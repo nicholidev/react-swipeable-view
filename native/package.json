@@ -8,15 +8,14 @@
     "eject": "expo eject",
     "test": "node ./node_modules/jest/bin/jest.js --watchAll"
   },
-  "author": "Olivier Tassinari <olivier.tassinari@gmail.com> (https://github.com/oliviertassinari)",
+  "author": "Nicholi Jin <nicholijin@gmail.com> (https://nicholijin.com)",
   "maintainers": [
-    "Olivier Tassinari <olivier.tassinari@gmail.com> (https://github.com/oliviertassinari)",
-    "Roman Rogozhnikov <roman.rogozhnikov@gmail.com> (https://github.com/yacut)"
+    "Nicholi Jin <nicholijin@gmail.com> (https://nicholijin.com/)",
   ],
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/oliviertassinari/react-swipeable-view.git"
+    "url": "https://github.com/nicholidev/react-swipeable-view.git"
   },
   "main": "node_modules/expo/AppEntry.js",
   "dependencies": {

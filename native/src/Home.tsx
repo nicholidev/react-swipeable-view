@@ -62,7 +62,7 @@ class Home extends React.Component<Props> {
           maintainerName="yacut"
           maintainerUrl="https://github.com/yacut"
           repositoryName="react-swipeable-view-native"
-          repositoryUrl="https://github.com/oliviertassinari/react-swipeable-view"
+          repositoryUrl="https://github.com/nicholidev/react-swipeable-view"
           version={pkgInfo.version}
         />
       </View>

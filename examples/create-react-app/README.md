@@ -2,7 +2,7 @@
 
 ## How to use
 
-Download the example [or clone the repo](https://github.com/oliviertassinari/react-swipeable-view):
+Download the example [or clone the repo](https://github.com/nicholidev/react-swipeable-view):
 
 ```bash
 curl https://codeload.github.com/oliviertassinari/react-swipeable-view/tar.gz/v1-beta | tar -xz --strip=2 react-swipeable-view-master/examples/create-react-app

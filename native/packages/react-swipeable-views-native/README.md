@@ -79,4 +79,4 @@ export default MyComponent;
 ## License
 
 This project is licensed under the terms of the
-[MIT license](https://github.com/oliviertassinari/react-swipeable-view/blob/master/LICENSE).
+[MIT license](https://github.com/nicholidev/react-swipeable-view/blob/master/LICENSE).

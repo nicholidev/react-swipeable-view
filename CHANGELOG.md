@@ -1,2 +1,2 @@
-All notable changes are described on the [Releases](https://github.com/oliviertassinari/react-swipeable-view/releases) page.
+All notable changes are described on the [Releases](https://github.com/nicholidev/react-swipeable-view/releases) page.
 
