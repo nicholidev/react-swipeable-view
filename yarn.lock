@@ -8580,16 +8580,16 @@
   dependencies:
     "prop-types" "^15.5.0"
 
-"react-swipeable-view-core@^0.14.0", "react-swipeable-view-core@file:D:\\portfolio\\packages\\react-swipeable-view\\packages\\react-swipeable-view-core":
-  "resolved" "file:packages/react-swipeable-view-core"
-  "version" "0.14.0"
+"react-swipeable-view-core@^0.14.0", "react-swipeable-view-core@^0.14.2", "react-swipeable-view-core@file:D:\\portfolio\\packages\\react-swipeable-view\\packages\\react-swipeable-views-core":
+  "resolved" "file:packages/react-swipeable-views-core"
+  "version" "0.14.2"
   dependencies:
     "@babel/runtime" "7.0.0"
     "warning" "^4.0.1"
 
-"react-swipeable-view-utils@^0.14.0", "react-swipeable-view-utils@file:D:\\portfolio\\packages\\react-swipeable-view\\packages\\react-swipeable-view-utils":
-  "resolved" "file:packages/react-swipeable-view-utils"
-  "version" "0.14.0"
+"react-swipeable-view-utils@^0.14.2", "react-swipeable-view-utils@file:D:\\portfolio\\packages\\react-swipeable-view\\packages\\react-swipeable-views-utils":
+  "resolved" "file:packages/react-swipeable-views-utils"
+  "version" "0.14.2"
   dependencies:
     "@babel/runtime" "7.0.0"
     "keycode" "^2.1.7"
@@ -8598,14 +8598,14 @@
     "react-swipeable-view-core" "^0.14.0"
     "shallow-equal" "^1.2.1"
 
-"react-swipeable-view@file:D:\\portfolio\\packages\\react-swipeable-view\\packages\\react-swipeable-view":
-  "resolved" "file:packages/react-swipeable-view"
+"react-swipeable-view@file:D:\\portfolio\\packages\\react-swipeable-view\\packages\\react-swipeable-views":
+  "resolved" "file:packages/react-swipeable-views"
   "version" "0.14.0"
   dependencies:
     "@babel/runtime" "7.0.0"
     "prop-types" "^15.5.4"
-    "react-swipeable-view-core" "^0.14.0"
-    "react-swipeable-view-utils" "^0.14.0"
+    "react-swipeable-view-core" "^0.14.2"
+    "react-swipeable-view-utils" "^0.14.2"
     "warning" "^4.0.1"
 
 "react-test-renderer@^16.0.0-0":

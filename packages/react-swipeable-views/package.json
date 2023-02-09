@@ -1,6 +1,6 @@
 {
   "name": "react-swipeable-view",
-  "version": "0.14.0",
+  "version": "0.14.2",
   "description": "A React component for swipeable views",
   "main": "lib/index.js",
   "scripts": {
@@ -23,8 +23,8 @@
   "dependencies": {
     "@babel/runtime": "7.0.0",
     "prop-types": "^15.5.4",
-    "react-swipeable-view-core": "^0.14.0",
-    "react-swipeable-view-utils": "^0.14.0",
+    "react-swipeable-view-core": "^0.14.2",
+    "react-swipeable-view-utils": "^0.14.2",
     "warning": "^4.0.1"
   },
   "peerDependencies": {
